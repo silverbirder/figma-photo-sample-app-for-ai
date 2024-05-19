@@ -1,0 +1,64 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background: #ffffff;
+  padding: 60px 0;
+}
+
+.header {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  letter-spacing: -0.015em;
+  color: #000000;
+  margin-bottom: 40px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  width: 80%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: #ffffff;
+}
+
+.cardTitle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.cardDescription {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 20px;
+}
+
+.learnMoreButton {
+  width: 130px;
+  height: 40px;
+  background: #ffffff;
+  border: 1px solid #18a0fb;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  color: #18a0fb;
+  text-decoration: none;
+  cursor: pointer;
+}
