@@ -1,0 +1,109 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Navbar Component > should render correctly and match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="_navbar_c1c3c6"
+  >
+    <div
+      class="_logo_c1c3c6"
+    >
+      photo
+    </div>
+    <div
+      class="_navLinks_c1c3c6"
+    >
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Features
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Pricing
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Community
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Support
+      </a>
+    </div>
+    <div>
+      <button
+        class="_button_c1c3c6 _login_c1c3c6"
+      >
+        Log in
+      </button>
+      <button
+        class="_button_c1c3c6 _register_c1c3c6"
+      >
+        Register
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Navbar renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="_navbar_c1c3c6"
+  >
+    <div
+      class="_logo_c1c3c6"
+    >
+      photo
+    </div>
+    <div
+      class="_navLinks_c1c3c6"
+    >
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Features
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Pricing
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Community
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Support
+      </a>
+    </div>
+    <div>
+      <button
+        class="_button_c1c3c6 _login_c1c3c6"
+      >
+        Log in
+      </button>
+      <button
+        class="_button_c1c3c6 _register_c1c3c6"
+      >
+        Register
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

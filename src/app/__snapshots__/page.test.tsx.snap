@@ -1,0 +1,364 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Page 1`] = `
+<DocumentFragment>
+  <div
+    class="_navbar_c1c3c6"
+  >
+    <div
+      class="_logo_c1c3c6"
+    >
+      photo
+    </div>
+    <div
+      class="_navLinks_c1c3c6"
+    >
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Features
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Pricing
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Community
+      </a>
+      <a
+        class="_navLink_c1c3c6"
+        href="#"
+      >
+        Support
+      </a>
+    </div>
+    <div>
+      <button
+        class="_button_c1c3c6 _login_c1c3c6"
+      >
+        Log in
+      </button>
+      <button
+        class="_button_c1c3c6 _register_c1c3c6"
+      >
+        Register
+      </button>
+    </div>
+  </div>
+  <div
+    class="_hero_c6dba0"
+  >
+    <div
+      class="_playButton_c6dba0"
+    >
+      <div
+        class="_playIcon_c6dba0"
+      />
+    </div>
+    <h1
+      class="_heroText_c6dba0"
+    >
+      The largest community of photo enthusiasts
+    </h1>
+    <div
+      class="_buttonContainer_c6dba0"
+    >
+      <a
+        class="_primaryButton_c6dba0"
+        href="#"
+      >
+        Join Today
+      </a>
+    </div>
+  </div>
+  <div
+    class="_content_3f5aa0"
+  >
+    <h1
+      class="_header_3f5aa0"
+    >
+      Snap photos and share like never before
+    </h1>
+    <div
+      class="_grid_3f5aa0"
+    >
+      <div
+        class="_card_3f5aa0"
+      >
+        <h4
+          class="_cardTitle_3f5aa0"
+        >
+          Sed ut perspiciatis
+        </h4>
+        <p
+          class="_cardDescription_3f5aa0"
+        >
+          Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+        </p>
+        <a
+          class="_learnMoreButton_3f5aa0"
+          href="#"
+        >
+          Learn more
+        </a>
+      </div>
+      <div
+        class="_card_3f5aa0"
+      >
+        <h4
+          class="_cardTitle_3f5aa0"
+        >
+          Lorem ipsum dolor
+        </h4>
+        <p
+          class="_cardDescription_3f5aa0"
+        >
+          Amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+        </p>
+        <a
+          class="_learnMoreButton_3f5aa0"
+          href="#"
+        >
+          Learn more
+        </a>
+      </div>
+      <div
+        class="_card_3f5aa0"
+      >
+        <h4
+          class="_cardTitle_3f5aa0"
+        >
+          Nemo enim ipsam
+        </h4>
+        <p
+          class="_cardDescription_3f5aa0"
+        >
+          Consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.
+        </p>
+        <a
+          class="_learnMoreButton_3f5aa0"
+          href="#"
+        >
+          Learn more
+        </a>
+      </div>
+      <div
+        class="_card_3f5aa0"
+      >
+        <h4
+          class="_cardTitle_3f5aa0"
+        >
+          Tempor incididunt
+        </h4>
+        <p
+          class="_cardDescription_3f5aa0"
+        >
+          Eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+        </p>
+        <a
+          class="_learnMoreButton_3f5aa0"
+          href="#"
+        >
+          Learn more
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    class="_content_ad9894"
+  >
+    <div
+      class="_imageBlock_ad9894"
+    />
+    <div
+      class="_textContent_ad9894"
+    >
+      <h4
+        class="_textTitle_ad9894"
+      >
+        Sed ut perspiciatis unde omnis
+      </h4>
+      <p
+        class="_textDescription_ad9894"
+      >
+        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem.
+      </p>
+    </div>
+  </div>
+  <div
+    class="_content_73fdf5"
+  >
+    <div
+      class="_textContent_73fdf5"
+    >
+      <h4
+        class="_textTitle_73fdf5"
+      >
+        Sed ut perspiciatis unde omnis
+      </h4>
+      <p
+        class="_textDescription_73fdf5"
+      >
+        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem.
+      </p>
+    </div>
+    <div
+      class="_imageBlock_73fdf5"
+    />
+  </div>
+  <div
+    class="_testimonial_4e732e"
+  >
+    <div
+      class="_header_4e732e"
+    >
+      <h1
+        class="_headerTitle_4e732e"
+      >
+        You’re in good company
+      </h1>
+      <p
+        class="_headerSubtitle_4e732e"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+      </p>
+    </div>
+    <div
+      class="_imageGrid_4e732e"
+    >
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+      <div
+        class="_imageBlock_4e732e"
+      />
+    </div>
+  </div>
+  <div
+    class="_signup_445745"
+  >
+    <p
+      class="_textContent_445745"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+    </p>
+    <div
+      class="_buttonContainer_445745"
+    >
+      <a
+        class="_primaryButton_445745"
+        href="#"
+      >
+        Join Today
+      </a>
+      <a
+        class="_secondaryButton_445745"
+        href="#"
+      >
+        Contact us
+      </a>
+    </div>
+  </div>
+  <div
+    class="_footer_0faee7"
+  >
+    <div
+      class="_topSection_0faee7"
+    >
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Mobile app
+      </a>
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Community
+      </a>
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Company
+      </a>
+      <div
+        class="_logoSection_0faee7"
+      >
+        <div
+          class="_logo_0faee7"
+        >
+          photo
+        </div>
+      </div>
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Help desk
+      </a>
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Blog
+      </a>
+      <a
+        class="_navLink_0faee7"
+        href="#"
+      >
+        Resources
+      </a>
+    </div>
+    <div
+      class="_divider_0faee7"
+    />
+    <div
+      class="_socialIcons_0faee7"
+    >
+      <div
+        class="_socialIcon_0faee7"
+      />
+      <div
+        class="_socialIcon_0faee7"
+      />
+      <div
+        class="_socialIcon_0faee7"
+      />
+      <div
+        class="_socialIcon_0faee7"
+      />
+    </div>
+    <div
+      class="_footerText_0faee7"
+    >
+      © Photo, Inc. 2019. We love our users!
+    </div>
+  </div>
+</DocumentFragment>
+`;
